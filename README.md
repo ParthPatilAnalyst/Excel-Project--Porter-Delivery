@@ -147,6 +147,8 @@ These insights allowed operations teams to move from reactive problem-solving to
 
 This project demonstrates how logistics and operations data can reveal inefficiencies that are not visible through surface-level monitoring. By analyzing delivery protocols, time-based trends, and partner allocation together, logistics organizations can significantly improve operational performance and customer satisfaction.
 
+![image alt](https://github.com/ParthPatilAnalyst/Excel-Project--Porter-Delivery/blob/f2714bdbf2f83449f7fbdd693b327c272ca0d3f5/Screenshot%202026-03-04%20171853.png)
+
 
 
 
